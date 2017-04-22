@@ -4,7 +4,7 @@
 package com.shadab.hibernate.models;
 
 /**
- * @author DanisH
+ * @author Shadab
  *
  */
 
